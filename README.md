@@ -22,6 +22,8 @@ A cél egy korszerű, digitális rendszer fejlesztése, amely automatizálja a t
 - Dokumentumtár feltöltése és kezelése
 - Felhasználói jogosultságok és szerepkörök
 
-## 📁 Projekt szerkezete
+##  Projekt szerkezete
 
-# vizsgamunka-tarsashaz
+vizsgamunka/ ├── backend/ │ ├── api/ │ ├── config/ │ └── index.php ├── frontend/ │ ├── src/ │ │ ├── components/ │ │ ├── views/ │ │ └── main.js │ └── public/ ├── electron/ │ └── main.js ├── docs/ │ ├── erd.png │ └── dokumentáció.pdf ├── dump/ │ └── adatbazis.sql └── README.md
+
+
